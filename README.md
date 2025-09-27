@@ -79,3 +79,4 @@ The issue list of this repo is exclusively for bug reports and feature requests.
 This Cosmos SDK project is not related to the [React-Cosmos](https://github.com/react-cosmos/react-cosmos) project (yet). Many thanks to Evan Coury and Ovidiu (@skidding) for this Github organization name. As per our agreement, this disambiguation notice will stay here.
 ## Notes
 This repo was forked for testing purposes. Added minor doc update.
+Documentation: improved example command and fixed a minor grammar issue.
